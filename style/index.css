@@ -114,7 +114,7 @@ select, input {
     padding: 10px;
     border: 1px solid #5e5e5e;
     border-radius: 4px;
-    background-color: #b09cc8;
+    background-color: #2f847c;
     color: #fff;
     cursor: pointer;
     transition: background-color 0.3s ease;
@@ -122,5 +122,5 @@ select, input {
 }
 
 .button:hover {
-    background-color: #2f847c;
+    background-color: #b09cc8;
 }
